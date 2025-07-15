@@ -21,6 +21,14 @@ GeoPhone is a Python script that empowers you to track the location of any phone
 
 - **Python 3.9**
 - Libraries: `phonenumbers`, `folium`, `opencage`
+triangulacion_avanzada.html
+ ubicacion_ags.html
+ ubicacion_estimada.html
+ ubicacion_final_triangulada.html
+ ubicacion_triangulada.html
+ ubicacion_triangulada_ponderada.html
+ ubica_numero.py
+ ubicar_numero.py
 
 ## 🚀 Getting Started:
 
